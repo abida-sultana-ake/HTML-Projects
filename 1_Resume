@@ -1,0 +1,81 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>My Resume</title>
+</head>
+<body>
+    <table border="">
+        <tr>
+            <td>
+                <img src="Me.jpg" alt="Me" width="150">
+            </td>
+            <td>
+                <h1>Abida Sultana</h1>
+                <p><b>Student at University of Liberal Arts Bangladesh</b></p>
+                <p>Computer Science Student</p>
+                <p><i>Aspiring Software Engineer</i></p>
+            </td>
+        </tr>
+    </table>
+    <hr>
+    <h2>Education</h2>
+    <table border="">
+        <tr>
+            <th><b>Name of Examination</b></th>
+            <th><b>Year of passing</b></th>
+            <th><b>Board</b></th>
+            <th><b>University/Institute</b></th>
+            <th><b>Subject/Group</b></th>
+            <th><b>Result</b></th>
+        </tr>
+        <tr>
+            <td>B.sc(Hons.)</td>
+            <td>Running</td>
+            <td>Dhaka</td>
+            <td>University of Liberal Arts Bangladesh</td>
+            <td>CSE</td>
+            <td>---</td>
+        </tr>
+        <tr>
+            <td>H.S.C</td>
+            <td>2021</td>
+            <td>Dhaka</td>
+            <td>Birshreshtha Munshi Abdur Rouf Public College</td>
+            <td>Science</td>
+            <td>5.00</td>
+        </tr>
+        <tr>
+            <td>S.S.C</td>
+            <td>2019</td>
+            <td>Dhaka</td>
+            <td>Dhanmondi Kamrunessa Government Girls' High School</td>
+            <td>Science</td>
+            <td>5.00</td>
+        </tr>
+    </table>
+    <hr>
+    <h2><b>Skill's</b></h2>
+    <ul>
+        <li>HTML</li>
+        <li>C programming language</li>
+        <li>C++ programming Language</li>
+        <li>Problem Solving</li>
+    </ul>
+    <hr>
+    <h2><b>Hobby</b></h2>
+    <ul>
+        <li>Reading Book's</li>
+        <li>Gardening</li>
+        <li>Learning New Things</li>
+    </ul>
+    <hr>
+    <h2><b>About Myself</b></h2>
+    <big>As a Computer Science and Engineering student from Bangladesh. I'm in my 1st year now and I'm currently diving into data structures.
+
+        🌐 I'm passionate about web development and recently completed an HTML course. I love creating web pages and learning new technologies. My goal is to become a web developer and land a job within a week after graduation.
+        
+        💡 I enjoy taking on new challenges and constantly pushing myself to learn and grow. Check out my repositories to see my latest projects and progress!</big>
+</body>
+</html>
