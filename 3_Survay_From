@@ -1,0 +1,75 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Survey From</title>
+    <link rel="icon" href="favicon.ico" type="image/x-icon">
+    <link rel="stylesheet" href="css/stype.css">
+</head>
+<div style="background-color: cadetblue;">
+    <h1>GeeksforGeeks Survey From</h1>
+</div>
+<hr>
+<body>
+    <div>
+        <form action="form.php">
+            <p>Name</p>
+            <input type="text" placeholder="Enter Your Name"><br><br>
+            <p>Email</p>
+            <input type="text" placeholder="Enter Your Mail"><br><br>
+            <p>Age</p>
+            <input type="text" placeholder="Enter Your Age"><br><br>
+            <p>Which option best describes you?</p>
+            <select name="A" id="Job">
+                <option value="Student">student</option>
+                <option value="Intern">Intern</option>
+            </select><br><br>
+            <p>Would you recommmend GeeksforGeeks to a friend?</p>
+            <label for="yes">
+                <input type="radio" name="recommend" id="Yes">Yes
+            </label><br>
+            <label for="no">
+                <input type="radio" name="recommend" id="no">No
+            </label><br>
+            <label for="maybe">
+                <input type="radio" name="recommend" id="maybe">Maybe
+            </label><br><br>
+            <p>Languages and Frameworks known (Check at that apply)</p>
+            <label for="C">
+                <input type="radio">C
+            </label><br>
+            <label for="C++">
+                <input type="radio">C++
+            </label><br>
+            <label for="C#">
+                <input type="radio">C#
+            </label><br>
+            <label for="Java">
+                <input type="radio">Java
+            </label><br>
+            <label for="Python">
+                <input type="radio">Python
+            </label><br>
+            <label for="JavaScript">
+                <input type="radio">JavaScript
+            </label><br>
+            <label for="React">
+                <input type="radio">React
+            </label><br>
+            <label for="Angular">
+                <input type="radio">Angular
+            </label><br>
+            <label for="Django">
+                <input type="radio">Django
+            </label><br>
+            <label for="Spring">
+                <input type="radio">Spring
+            </label><br><br>
+            <p>Any Comments or suggestions</p>
+            <textarea name="Explain" id="Explain" cols="50" rows="10" placeholder="Explain"></textarea><br><br><br>
+        </form>
+    </div>
+    <button style="background-color: cadetblue;">Submit</button>
+</body>
+</html>
