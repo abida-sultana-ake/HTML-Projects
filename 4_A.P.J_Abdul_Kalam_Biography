@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>A.P.J Abudul Kalam</title>
+</head>
+<body>
+    <h1>A.P.J Abdul Kalam</h1>
+    <img src="https://cdn.britannica.com/56/148856-004-2F59E2D9/APJ-2008.jpg" alt="sir" width="200" height="200"> <br> <br>
+    <b style="background-color: cadetblue;"><i>“If you want to shine like a sun, first burn like a sun. To succeed in your mission, you must have single-minded devotion to your goal.”</i></b>
+    <hr>
+    <div style="background-color: lightslategray;">
+        <h2>About President A.P.J Abdul Kalam</h2>
+        <ul>
+            <li>
+                <p><b>Avul Pakir Jainulabdeen Abdul Kalam</b>15 October 1931 - 27 July 2015 was an Indian  aerospace scientist and statesman who served as the 11th president of India from 2002 to 2007. Born and raised in a Muslim family in Rameswaram, Tamil Nadu, he studied physics and aerospace engineering.</p>
+            </li>
+            <li>
+                <p>Kalam was elected as the 11th president of India in 2002 with the support of both the ruling Bharatiya Janata Party and the then-opposition Indian National Congress.Widely referred to as the <b>"People's President"</b>, he returned to his civilian life of education, writing and public service after a single term. He was a recipient of several prestigious awards, including the Bharat Ratna, India's highest civilian honour.</p>
+            </li>
+            <li>
+                <p>While delivering a lecture at the Indian Institute of Management Shillong, Kalam collapsed and died from an apparent cardiac arrest on 27 July 2015, aged 83. Thousands, including national-level dignitaries, attended the funeral ceremony held in his hometown of Rameswaram, where he was buried with full state honours.</p>
+            </li>
+        </ul>
+        <h2>Early life and education</h2>
+        <ul>
+            <li>
+                <p>Avul Pakir Jainulabdeen Abdul Kalam was born on 15 October 1931, to a Tamil Muslim family in the pilgrimage centre of Rameswaram on Pamban Island, then in the Madras Presidency and now in the State of Tamil Nadu. His father Jainulabdeen Marakayar was a boat owner and imam of a local mosque; his mother Ashiamma was a housewife.His father owned a ferry that took Hindu pilgrims back and forth between Rameswaram and the now uninhabited Dhanushkodi.</p>
+            </li>
+            <li>
+                <p>Kalam was the youngest of four brothers and one sister in his family. His ancestors had been wealthy Marakayar traders and landowners, with numerous properties and large tracts of land. Marakayar are a Muslim ethnic group found in coastal Tamil Nadu and Sri Lanka who claim descent from Arab traders and local women.</p>
+            </li>
+            <li>
+                <p>In his school years, Kalam had average grades but was described as a bright and hardworking student who had a strong desire to learn. He spent hours on his studies, especially Mathematics. After completing his education at Schwartz Higher Secondary School, Ramanathapuram, Kalam went on to attend the St. Joseph's College, Tiruchirappalli from where he graduated in Physics in 1954</p>
+            </li>
+            <li>
+                <p>Kalam moved to Madras in 1955 to study aerospace engineering in Madras Institute of Technology.While Kalam was working on a senior class project, the Dean was dissatisfied with his lack of progress and threatened to revoke his scholarship unless the project was finished within the next three days. Kalam met the deadline, impressing the Dean, who later said to him, "I was putting you under stress and asking you to meet a difficult deadline."</p>
+            </li>
+        </ul>
+        <h2>Presidency</h2>
+        <ul>
+            <li>Kalam served as the 11th president of India, succeeding K. R. Narayanan. He won the 2002 presidential election with an electoral vote of 922,884, surpassing the 107,366 votes won by Lakshmi Sahgal. His term lasted from 25 July 2002, to 25 July 2007</li>
+        </ul>
+        <ul>
+            <li>fter leaving office, Kalam became a visiting professor at the Indian Institute of Management Shillong, the Indian Institute of Management Ahmedabad, and the Indian Institute of Management Indore; an honorary fellow of Indian Institute of Science, Bangalore; chancellor of the Indian Institute of Space Science and Technology Thiruvananthapuram; professor of Aerospace Engineering at Anna University; and an adjunct at many other academic and research institutions across India. He taught information technology at the International Institute of Information Technology, Hyderabad, and technology at Banaras Hindu University and Anna University.</li>
+            <li>In 2011, Kalam was criticised by civil groups over his stand on the Koodankulam Nuclear Power Plant; he supported the establishment of the nuclear power plant and was accused of not speaking with the local people.[82] The protesters were hostile to his visit as they saw him as a pro-nuclear scientist and were unimpressed by the assurances he provided regarding the safety features of the plant</li>
+            <li>In May 2012, Kalam launched a programme for the youth of India called the What Can I Give Movement, with a central theme of defeating corruption</li>
+        </ul>
+        <h2>Death</h2>
+        <ul>
+            <li>On 30 July 2015, the former president was laid to rest at Rameswaram's Pei Karumbu Ground with full state honours. Over 350,000 people attended the last rites, including the Prime Minister, the governor of Tamil Nadu and the chief ministers of Karnataka, Kerala and Andhra Pradesh.</li>
+        </ul>
+    </div>
+</body>
+<hr>
+        <footer>
+            <p>Copyright &copy; A.P.J Abdul Kalam</p>
+        </footer>
+</html>
