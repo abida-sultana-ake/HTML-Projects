@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="author" content="Abida Sultana">
+    <meta name="description" content="The official website for the little Taco Shop">
+    <title>LTS Hours</title>
+    <link rel="icon" href="favicon.ico" type="image/x-icon">
+</head>
+<body>
+    <header>
+        <h2>The little Taco Shop Hours</h2>
+        <nav>
+            <ul>
+                <li>
+                    <a href="/">Home </abbr></a>
+                </li>
+                <li>
+                    <a href="/#about">About <abbr title="The Little Taco Shop"></abbr></a>
+                </li>
+                <li>
+                    <a href="/#menu">Our Menu </a>
+                </li>
+                <li>
+                    <a href="contact.html">Contact Us </abbr></a>
+                </li>
+            </ul>
+        </nav>
+        <figure>
+            <img src="https://i.pinimg.com/564x/72/be/5f/72be5f6b3a9167cbf1a8f0d14ce9bc9d.jpg" alt="A tray of tasty Tacos" width="150" title="We love tacos!">
+            <figcaption>
+                A tray of tasty Tacos
+            </figcaption>
+        </figure>
+    </header>
+    <hr>
+    <main>
+        <p>
+            We are open 7 days a week!
+        </p>
+        <dl>
+            <dt>Sunday-Thursday</dt>
+            <dd>11am-9am</dd>
+            <dt>Friday-Saturday</dt>
+            <dd>11am-11pm</dd>
+        </dl>
+        <p>
+            <a href="#">Back To Top</a>
+        </p>
+    </main>
+        <hr>
+        <footer>
+            <p>Copyright &copy; The Little Taco Shop</p>
+        </footer>
+</body>
+</html>
